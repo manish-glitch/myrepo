@@ -1,2 +1,3 @@
 will push this txt from local to remote. (as Alice to bob)
 now, I here, work as Bob, and made changes and committed them too!
+now updating this to demonstrate fetch.
