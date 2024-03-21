@@ -1,0 +1,10 @@
+# Visual Studio temporary files
+.vs/
+*.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+/bin/
+/obj/
