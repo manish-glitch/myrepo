@@ -6,5 +6,7 @@
 *.sln.docstates
 
 # Build results
-/bin/
-/obj/
+EmployeeServices/bin/
+EmployeeServices/obj/
+EmployeeServicesTests/bin/
+EmployeeServicesTests/obj/
